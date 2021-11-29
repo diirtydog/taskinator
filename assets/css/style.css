@@ -110,7 +110,6 @@ footer {
   background: var(--tertiary);
   border-radius: 12px;
   margin-bottom: 20px;
-  width: 100%;
 }
 
 .task-name {
